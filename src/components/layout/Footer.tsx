@@ -238,7 +238,7 @@ export default function Footer({
                             © {currentYear} {companyName}. All rights reserved.
                         </p>
                         <p className="text-[var(--text-muted)] text-xs mb-8">
-                            Website designed & developed by <span className="text-[var(--text-secondary)] hover:text-[var(--primary-accent)] transition-colors cursor-pointer">Digital Experience Studio</span>
+                            Website designed & developed by <a href="https://binarybridge.in" target="_blank" rel="noopener noreferrer" className="text-[var(--text-secondary)] hover:text-[var(--primary-accent)] transition-colors cursor-pointer">BinaryBridge</a>
                         </p>
                     </div>
                 </motion.div>
